@@ -113,9 +113,9 @@ Pull requests are welcome. Please open issues for bug reports or feature request
 
 License
 Specify your license here (e.g., MIT License).
-
+**
 Contact
 Nuthakki Chaitanya
 Email: marteen837@gmail.com
-GitHub: https://github.com/ChaithuCE
+GitHub: https://github.com/ChaithuCE**
 
